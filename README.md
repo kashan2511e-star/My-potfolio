@@ -55,6 +55,6 @@ It includes different sections like:
 ## 📂 How to Use
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kashan2511e-star/My-potfolio.git
 cd your-repo-name
 open index.html
