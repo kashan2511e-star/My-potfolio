@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This project showcases my skills, projects, and experience as a web developer.
 
 🔗 Live Site:  
-👉 https://mk-portfoli-website.netlify.app
+👉 https://mk-portfolio-website.netlify.app
 
 ---
 
@@ -22,7 +22,7 @@ It includes different sections like:
 
 ## 🌍 Live Demo
 
-🔗 **Visit Website:** https://mk-portfoli-website.netlify.app
+🔗 **Visit Website:** https://mk-portfolio-website.netlify.app
 
 ---
 
